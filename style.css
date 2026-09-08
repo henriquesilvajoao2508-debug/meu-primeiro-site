@@ -1,3 +1,5 @@
-h1{
-    background-color: aqua;
+body {
+    margin: 0;
+    height: 100vh;
+    background : linear-gradient(90dg, #3498db 50%, #000080 50%)
 }
