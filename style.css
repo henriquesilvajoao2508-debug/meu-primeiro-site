@@ -1,5 +1,6 @@
 body {
-    margin: 0;
-    height: 100vh;
-    background : linear-gradient(90dg, #3498db 50%, #000080 50%);
+  margin: 0;
+  height: 100vh;
+  /* Divide a tela verticalmente (esquerda e direita) */
+  background: linear-gradient(to right, #3498db 50%, #2ecc71 50%);
 }
